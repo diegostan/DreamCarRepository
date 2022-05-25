@@ -1,0 +1,17 @@
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Infrastructure.deps.json
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Infrastructure.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Infrastructure.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Application.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Domain.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Application.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\bin\Debug\net6.0\DreamCar.App.Domain.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.AssemblyInfo.cs
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.csproj.CopyComplete
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\refint\DreamCar.App.Infrastructure.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\DreamCar.App.Infrastructure.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Infrastructure\obj\Debug\net6.0\ref\DreamCar.App.Infrastructure.dll

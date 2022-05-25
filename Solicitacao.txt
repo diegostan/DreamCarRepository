@@ -1,0 +1,4 @@
+Essa aplicação se refere ao DreamCar, uma app que gerencia a compra e venda de veiculos
+
+O sistema deve ser capaz de registrar novos veiculos e parceiros que contenham veiculos
+o sistema de venda de veiculos precisa expor uma interface para o usuario final

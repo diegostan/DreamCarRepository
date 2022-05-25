@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DhVVVawzuAyB7mVbOQuOF+zRpTQmuxE8OplKdZokJtyqTb69u0VY1biKVA7cEz+pKt3NwGg12v5MTvw94006Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Documents\\dev\\dotnet\\DreamCar\\DreamCar.App.Infrastructure\\DreamCar.App.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DreamCar.App.Application/1.0.0": {
+        "dependencies": {
+          "DreamCar.App.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DreamCar.App.Application.dll": {}
+        }
+      },
+      "DreamCar.App.Domain/1.0.0": {
+        "runtime": {
+          "DreamCar.App.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DreamCar.App.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DreamCar.App.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

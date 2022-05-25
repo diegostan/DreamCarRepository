@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\bin\Debug\net6.0\DreamCar.App.Application.deps.json
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\bin\Debug\net6.0\DreamCar.App.Application.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\bin\Debug\net6.0\DreamCar.App.Application.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\bin\Debug\net6.0\DreamCar.App.Domain.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\bin\Debug\net6.0\DreamCar.App.Domain.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.AssemblyInfo.cs
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.csproj.CopyComplete
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\refint\DreamCar.App.Application.dll
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\DreamCar.App.Application.pdb
+C:\Users\Diego\Documents\dev\dotnet\DreamCar\DreamCar.App.Application\obj\Debug\net6.0\ref\DreamCar.App.Application.dll
